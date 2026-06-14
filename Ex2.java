@@ -9,12 +9,12 @@ public class Ex2 {
     System.out.println("Type the sentence, dont forget the spaces");
     String sentence = sc.nextLine();
     
-    String[]parts = sentence.split(" ");
+    String[]sentParts = sentence.split(" "); // split the sentence into parts based on spaces
 
     try {
-        double num1 = Double.parseDouble(parts[0]);
-        String operator = parts[1];
-        double num2 = Double.parseDouble(parts[2]);
+        double num1 = Double.parseDouble(sentParts[0]); // select i[0] from parts and convert to double
+        String operator = sentParts[1]; //select i[1] from parts as operator
+        double num2 = Double.parseDouble(sentParts[2]); // select i[2] from parts and convert to double
 
         double result;
 
@@ -43,8 +43,10 @@ public class Ex2 {
         System.out.println("Result: " + result);
     } catch (NumberFormatException e) {
         System.out.println("Error: Invalid number format. Please enter valid numbers.");
+
     } catch (ArrayIndexOutOfBoundsException e) {
         System.out.println("Error: Invalid input format. Please enter in the format 'number operator number'.");
+        
     }
 
     sc.close();
