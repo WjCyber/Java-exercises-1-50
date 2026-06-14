@@ -23,7 +23,6 @@ public class Ex3 {
         } else {
             System.out.println("This number is odd");
         }
-
         sc.close();
     }
 }
