@@ -26,8 +26,8 @@ Current commitment:
 | 01       | Read name, age and profession  | ✅      |
 | 02       | Basic calculator               | ✅      |
 | 03       | Even or odd number             | ✅     |
-| 04       | Largest among three numbers    | ⬜      |
-| 05       | Multiplication table using for | ⬜      |
+| 04       | Largest among three numbers    | ✅      |
+| 05       | Multiplication table using for | ✅      |
 | 06       | Sum 1 to 100 using while       | ⬜      |
 | 07       | Factorial calculator           | ⬜      |
 | 08       | Prime number verification      | ⬜      |
