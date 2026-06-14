@@ -24,7 +24,7 @@ Current commitment:
 | Exercise | Description                    | Status |
 | -------- | ------------------------------ | ------ |
 | 01       | Read name, age and profession  | ✅      |
-| 02       | Basic calculator               | ⬜      |
+| 02       | Basic calculator               | ✅      |
 | 03       | Even or odd number             | ⬜      |
 | 04       | Largest among three numbers    | ⬜      |
 | 05       | Multiplication table using for | ⬜      |
