@@ -16,7 +16,7 @@ public class Ex7 {
         }
         
         if (numberUser == 0) {
-            System.out.println("The factorial of 0 is: 1");
+            System.out.println("The factorial of 0 and 1 is: 1");
             return;
         }
 
