@@ -28,8 +28,8 @@ Current commitment:
 | 03       | Even or odd number             | ✅     |
 | 04       | Largest among three numbers    | ✅      |
 | 05       | Multiplication table using for | ✅      |
-| 06       | Sum 1 to 100 using while       | ⬜      |
-| 07       | Factorial calculator           | ⬜      |
+| 06       | Sum 1 to 100 using while       | ✅      |
+| 07       | Factorial calculator           | ✅      |
 | 08       | Prime number verification      | ⬜      |
 | 09       | Number guessing game           | ⬜      |
 | 10       | ATM simulation                 | ⬜      |
